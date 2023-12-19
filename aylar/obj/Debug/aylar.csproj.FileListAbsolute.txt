@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\aylar\aylar\obj\Debug\aylar.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\aylar\aylar\obj\Debug\aylar.Form1.resources
+C:\Users\legen\source\repos\aylar\aylar\obj\Debug\aylar.Properties.Resources.resources
+C:\Users\legen\source\repos\aylar\aylar\obj\Debug\aylar.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\aylar\aylar\obj\Debug\aylar.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\aylar\aylar\bin\Debug\aylar.exe.config
+C:\Users\legen\source\repos\aylar\aylar\bin\Debug\aylar.exe
+C:\Users\legen\source\repos\aylar\aylar\bin\Debug\aylar.pdb
+C:\Users\legen\source\repos\aylar\aylar\obj\Debug\aylar.exe
+C:\Users\legen\source\repos\aylar\aylar\obj\Debug\aylar.pdb
